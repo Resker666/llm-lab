@@ -52,6 +52,7 @@ The repository will grow gradually. Directories are added when there is real con
 ## Current Starting Points
 
 - [Local deployment](./local-deployment/README.md)
+  - [Qwen + Ollama on Windows](./local-deployment/qwen-ollama-windows.md)
 - [Qwen notes](./models/qwen.md)
 - [AI tools](./tools/README.md)
 - [Troubleshooting](./troubleshooting/README.md)
